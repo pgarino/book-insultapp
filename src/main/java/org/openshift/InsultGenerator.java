@@ -1,3 +1,6 @@
+package org.openshift;
+
+
 import java.util.Random;
 
 public class InsultGenerator {
@@ -15,6 +18,7 @@ public class InsultGenerator {
 	}
 
 }
+
 //
 //
 //
